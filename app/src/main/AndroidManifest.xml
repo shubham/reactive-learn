@@ -10,6 +10,33 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
+
+        </activity>
+        <activity android:name=".Example5Activity">
+
+        </activity>
+        <activity android:name=".Example1Activity">
+
+        </activity>
+        <activity android:name=".Example2Activity">
+
+        </activity>
+        <activity android:name=".Example3Activity">
+
+        </activity>
+        <activity android:name=".Example4Activity">
+
+        </activity>
+        <activity android:name=".Example6Activity" >
+
+        </activity>
+        <activity android:name=".Example7Activity" >
+
+        </activity>
+        <activity android:name=".Example8Activity" >
+
+        </activity>
+        <activity android:name=".Example9Activity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
