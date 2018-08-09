@@ -27,22 +27,35 @@
         <activity android:name=".Example4Activity">
 
         </activity>
-        <activity android:name=".Example6Activity" >
+        <activity android:name=".Example6Activity">
 
         </activity>
-        <activity android:name=".Example7Activity" >
+        <activity android:name=".Example7Activity">
 
         </activity>
-        <activity android:name=".Example8Activity" >
+        <activity android:name=".Example8Activity">
 
         </activity>
-        <activity android:name=".Example9Activity" >
+        <activity android:name=".Example9Activity">
+
+        </activity>
+        <activity android:name=".Example10Activity">
+
+        </activity>
+        <activity android:name=".Example11Activity">
+
+        </activity>
+        <activity android:name=".Example12Activity">
+
+        </activity>
+        <activity android:name=".Example13Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Example14Activity" />
     </application>
 
 </manifest>
