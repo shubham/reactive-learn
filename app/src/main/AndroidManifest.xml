@@ -49,13 +49,15 @@
 
         </activity>
         <activity android:name=".Example13Activity">
+
+        </activity>
+        <activity android:name=".Example14Activity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Example14Activity" />
     </application>
 
 </manifest>
