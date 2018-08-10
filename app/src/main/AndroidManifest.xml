@@ -51,7 +51,10 @@
         <activity android:name=".Example13Activity">
 
         </activity>
-        <activity android:name=".Example14Activity" >
+        <activity android:name=".Example14Activity">
+
+        </activity>
+        <activity android:name=".Example15Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
